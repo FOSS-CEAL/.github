@@ -1,12 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  Hello, World! - from FOSS-CEAL
+</h1>
+ <p align="center">OFFICIAL GITHUB HANDLE OF FOSS-CEAL</p>
+</p>
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=FOSS-CEAL&style=flat-square" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/FOSS-CEAL?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/FOSS-CEAL?label=Stars" alt="Total Stars">
+</p>
 
-<!--
 
-**Here are some ideas to get you started:**
+> “Talk is cheap. Show me the code.”
+― Linus Torvalds
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Vision                                                                                    
+> The vision of the FOSS Cell is to encourage and promote the use of Free and Open Source Software and related areas such as Open Hardware, amongst the students and teachers of the institution for every possible kind of use.                                                                                        
